@@ -47,7 +47,7 @@ public class LogisticBase {
             for (Ramp ramp : ramps) {
                 if (!ramp.isBusy()) {
                     ramp.setBusy(true);
-                    logger.info("There is a " + truck + " on the ramp number " + ramp.getId());
+                    logger.info("There is a " + truck.toString() + " on the ramp number " + ramp.getId());
                     return ramp;
                 }
             }
