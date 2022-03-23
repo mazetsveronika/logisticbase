@@ -8,7 +8,6 @@
 768 perishable 250
 722 usual 152
 733 usual 180
-755 usual 180
 671 usual 153
 672 usual 300
 743 usual 155
